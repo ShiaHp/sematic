@@ -2,7 +2,7 @@ const upload = require("../middleware/upload");
 const dbConfig = require("../config/db");
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-const genAI = new GoogleGenerativeAI("AIzaSyCXJG8qgRw7HhQKQJPaD0aUuc5OADj1Yv0");
+const genAI = new GoogleGenerativeAI("");
 
 const MongoClient = require("mongodb").MongoClient;
 const GridFSBucket = require("mongodb").GridFSBucket;

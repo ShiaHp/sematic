@@ -1,8 +1,7 @@
 const { MongoClient } = require("mongodb");
 
 // connect to your Atlas deployment
-const uri =
-  "mongodb+srv://Shia:phaohoa123@cluster0.h4ezk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "";
 
 const client = new MongoClient(uri).connect();
 

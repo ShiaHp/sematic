@@ -1,6 +1,6 @@
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 const fs = require("fs");
-const genAI = new GoogleGenerativeAI("AIzaSyCXJG8qgRw7HhQKQJPaD0aUuc5OADj1Yv0");
+const genAI = new GoogleGenerativeAI("");
 
 // In-memory storage for product embeddings
 let productStorage = [];

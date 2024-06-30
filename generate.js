@@ -4,7 +4,7 @@ const { QdrantClient } = require("@qdrant/js-client-rest");
 const movies = require("./data.json");
 const fs = require("fs");
 const client = new QdrantClient({ url: "http://127.0.0.1:6333" });
-const genAI = new GoogleGenerativeAI("AIzaSyCXJG8qgRw7HhQKQJPaD0aUuc5OADj1Yv0");
+const genAI = new GoogleGenerativeAI("");
 // const generateEmbeddings = async () => {
 //   try {
 //     const start = performance.now() / 1000;
