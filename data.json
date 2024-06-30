@@ -1,0 +1,134 @@
+[
+  {
+    "id": 123123,
+    "name": "Black Adam",
+    "year": 2022,
+    "runtime": 124,
+    "categories": ["fantasy", "action", "adventure"],
+    "release-date": "2022-10-21",
+    "director": ["Jaume Collet-Serra"],
+    "writer": ["Adam Sztykiel", "Rory Haines", "Sohrab Noshirvani"],
+    "actors": [
+      "Dwayne Johnson",
+      "Aldis Hodge",
+      "Pierce Brosnan",
+      "Noah Centineo",
+      "Sarah Shahi",
+      "Quintessa Swindell",
+      "Marwan Kenzari"
+    ],
+    "storyline": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
+  },
+  {
+    "id": 123512,
+    "name": "Halloween Ends",
+    "year": 2022,
+    "runtime": 111,
+    "categories": ["horror", "thriller"],
+    "release-date": "2022-10-14",
+    "director": ["David Gordon Green"],
+    "writer": ["John Carpenter", "Debra Hill", "Paul Brad Logan"],
+    "actors": [
+      "Jamie Lee Curtis",
+      "Andi Matichak",
+      "James Jude Courtney",
+      "Rohan Campbell",
+      "Will Patton",
+      "Jesse C. Boyd",
+      "Michael Barbieri"
+    ],
+    "storyline": "The saga of Michael Myers and Laurie Strode comes to a spine-chilling climax in the final installment of this trilogy."
+  },
+  {
+    "id": 123123,
+    "name": "The Flash",
+    "year": 2022,
+    "runtime": 150,
+    "categories": ["action", "adventure", "fantasy"],
+    "release-date": "2022-11-04",
+    "director": ["Andy Muschietti"],
+    "writer": ["Christina Hodson", "Gardner Fox", "Harry Lampert"],
+    "actors": [
+      "Ezra Miller",
+      "Ben Affleck",
+      "Michael Keaton",
+      "Sasha Calle",
+      "Kiersey Clemons",
+      "Maribel Verdú",
+      "Ron Livingston"
+    ],
+    "storyline": "Barry Allen travels back in time to prevent"
+  },
+
+  {
+    "id": 123123161,
+    "name": "Morbius",
+    "year": 2022,
+    "runtime": 104,
+    "categories": ["horror", "action", "adventure"],
+    "release-date": "2022-04-01",
+    "director": ["Daniel Espinosa"],
+    "writer": ["Matt Sazama", "Burk Sharpless"],
+    "actors": [
+      "Jared Leto",
+      "Matt Smith",
+      "Adria Arjona",
+      "Jared Harris",
+      "Tyrese Gibson",
+      "Al Madrigal"
+    ],
+    "storyline": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead."
+  },
+
+  {
+    "id": 5594999,
+    "name": "Thor: Love and Thunder",
+    "year": 2022,
+    "runtime": 118,
+    "categories": ["comedy", "action", "adventure"],
+    "release-date": "2022-07-08",
+    "director": ["Taika Waititi"],
+    "writer": ["Taika Waititi", "Jennifer Kaytin Robinson"],
+    "actors": [
+      "Chris Hemsworth",
+      "Christian Bale",
+      "Natalie Portman",
+      "Tessa Thompson",
+      "Russell Crowe",
+      "Chris Pratt",
+      "Jaimie Alexander"
+    ],
+    "storyline": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct."
+  },
+  {
+    "id": 1231238522,
+    "name": "Top Gun: Maverick",
+    "year": 2022,
+    "runtime": 130,
+    "categories": ["action", "drama"],
+    "release-date": "2022-05-27",
+    "director": "Joseph Kosinski",
+    "actors": ["Tom Cruise", "Jennifer Connelly", "Miles Teller"],
+    "storyline": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to ..."
+  },
+  {
+    "id": 1231238522333,
+    "name": "Monfall",
+    "year": 2022,
+    "runtime": 130,
+    "categories": ["sci-fi", "action", "adventure"],
+    "release-date": "2022-02-04",
+    "director": ["Roland Emmerich"],
+    "writer": ["Roland Emmerich", "Harald Kloser", "Spenser Cohen"],
+    "actors": [
+      "Halle Berry",
+      "Patrick Wilson",
+      "John Bradley",
+      "Charlie Plummer",
+      "Wenwen Yu",
+      "Michael Peña",
+      "Carolina Bartczak"
+    ],
+    "storyline": "A mysterious force knocks the moon from its orbit and sends it hurtling on a collision course toward earth."
+  }
+]
